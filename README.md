@@ -1,9 +1,9 @@
-#Student-directory#
+# Student-directory #
 
-##Project Description##
+## Project Description ##
 create a Ruby script that manages a directory of the students attending “Villains Academy”.
 
-###How to use###
+### How to use ###
 ```
 ruby directory.rb
 ```
